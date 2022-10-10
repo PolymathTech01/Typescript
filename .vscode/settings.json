@@ -1,0 +1,5 @@
+{
+  "prettier.enable": true,
+  "eslint.lintTask.enable": true,
+  "javascript.format.enable": true
+}
